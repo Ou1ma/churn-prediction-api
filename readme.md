@@ -3,7 +3,7 @@
 FastAPI + Random Forest API that predicts bank customer churn, with MLflow tracking.
 
 ## Demo
-- Docs: `/docs` (Swagger UI)
+- API Docs (Swagger): https://churn-prediction-api-2mg1.onrender.com/docs
 
 ## What it does
 - Trains a Random Forest model (with basic tuning)
